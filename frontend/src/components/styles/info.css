@@ -1,0 +1,91 @@
+/* *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+html{
+    font-size:62.5%;
+}
+body{
+    background-color:rgb(219,230,253);
+}
+h1{
+    font-size:3.2rem;
+    margin:2rem 0;
+    text-align:center;
+}
+h2{
+    font-family: "Helvetica Neue";
+    font-size:2.4rem;
+}*/
+
+.info-page{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color:rgb(243, 245, 251);
+
+}
+.p-info{
+    margin:2rem 0;
+    color:rgba(21,19,60,0.5);
+    font-weight:200;
+    font-size:1.6rem;
+    display:inline-block;
+
+}
+span{
+    text-transform:capitalize;
+    font-weight:500;
+} 
+.info-div{
+    
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    gap:4rem;
+}
+.card{
+    min-width:20rem;
+    width:45vw;
+    padding:2rem;
+    background-color:#ffffff;
+    box-shadow:rgba(100,100,111,0.2)0px 7px 29px 0px;
+    border-radius:0.5rem;
+    color:#15133c;
+}
+.card-button{
+    flex-direction: row;
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+}
+.card-button a{
+    color:#92b4ec;
+    font-weight: 200;
+    font-size:1rem;
+}
+.card-button a:last-child{
+    color:red;
+}
+form{
+    display:grid;
+    place-items:center;
+}
+input{
+    padding:1rem;
+    min-width:30rem;
+}
+
+.container-fluidi {
+    padding: 2% 2% 11%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.blogimg{
+    height:220px;
+}

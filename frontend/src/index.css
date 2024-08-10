@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mr-40 {
+  margin-right: 46rem;
+}
