@@ -11,7 +11,7 @@ Utilizes the Algolia Health News API to provide up-to-date information.
 <b>Assessment Page:</b>
 Allows users to upload retinal images.<br/>
 <b>Classifies images into four categories:</b>
-<i>Cataract</i><br/>
+.<br/><i>Cataract</i><br/>
 <i>Diabetic Retinopathy</i><br/>
 <i>Glaucoma</i><br/>
 <i>Normal</i><br/>
