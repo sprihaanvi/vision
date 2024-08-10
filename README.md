@@ -1,10 +1,13 @@
 <h1>Comprehensive Eye Care Application</h1>
 This project is a comprehensive eye care application developed using ReactJS and Flask. It offers users various functionalities, including accessing the latest health-related news, assessing retinal images for disease classification, and finding eye doctors based on location.
 <br/>
+<br/>
 <h2>Features</h2>
 <b>Health Information Page:</b>
 Fetches and displays the latest health-related news.
 Utilizes the Algolia Health News API to provide up-to-date information.
+<br/>
+<br/>
 <b>Assessment Page:</b>
 Allows users to upload retinal images.<br/>
 <b>Classifies images into four categories:</b>
@@ -13,7 +16,8 @@ Allows users to upload retinal images.<br/>
 <i>Glaucoma</i><br/>
 <i>Normal</i><br/>
 The classification is powered by a Flask backend that processes the image and returns the result.
-
+<br/>
+<br/>
 <b>Doctor Database:</b>
 Contains a database of eye doctors.
 Users can filter doctors based on location to find the nearest eye care specialists.
